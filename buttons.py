@@ -4,7 +4,7 @@
 # pip3 install pyttsx3
 # importing speechrecognition and import pyttsx3
 
-import speech_recognition 
+# import speech_recognition 
 import pyttsx3
 
 # from gtts import gTTS
